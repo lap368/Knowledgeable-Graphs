@@ -26,5 +26,7 @@
 "workbench.editor.revealIfOpen": true,
 "workbench.editor.enablePreview": false,
 "workbench.editor.focusRecentEditorAfterClose": false,
-"workbench.editor.openPositioning": "first"
+"workbench.editor.openPositioning": "first",
+"markdown-preview-enhanced.enableScriptExecution": true
 }
+
