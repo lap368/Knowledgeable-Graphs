@@ -18,5 +18,9 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+"markdown.styles": [
+    ".vscode/custom-tag-style.css"
+],
+"markdown.preview.scrollEditorWithPreview": false,
+"markdown.preview.scrollPreviewWithEditor": false
 }
