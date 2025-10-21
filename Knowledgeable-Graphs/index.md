@@ -1,8 +1,8 @@
-@import "Grounding-Principles/index.md"
+@import "/Grounding-Principles/index.md"
 
-@import "Foss/index.md"
+@import "/Foss/index.md"
 
-@import "Internet-Protocol/index.md"
+@import "/Internet-Protocol/index.md"
 
 # **Graphs**
 ## Notation Used in This Document
