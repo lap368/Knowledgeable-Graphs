@@ -16,8 +16,6 @@ classDef id fill:#facc15,stroke:#ca8a04,color:black;
 ```
 
 
-
-
 ## Basics
 ### Directed Vs Undirected
 ### Trees
