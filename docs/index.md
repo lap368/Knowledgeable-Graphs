@@ -11,6 +11,8 @@
 @import "./Trust/index.md"
 
 
+@import "./Notes-Requirements/index.md"
+
 
 # Loose Notes
  
@@ -24,3 +26,4 @@ RDF allows the same graph to be a tree and a cloud, gaining the computational ad
 
 ## Trust mechanism for black boxes
 Entity 1 (ACME) has a black box for some process; Entity 2 has a knowledgeable agent that allegedly can check it. Entity 1 creates a hashed signature of their black box through some process that means that if you know some numbers a and b, it is easy to calculate c, and it is possible but difficult to verify that c is the next number in the sequence? think this could work maybe, have to think more.
+
