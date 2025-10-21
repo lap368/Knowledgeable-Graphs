@@ -1,20 +1,12 @@
----
-id: p5e9mvr531e08ovd04m5wcg
-title: Pitch
-desc: ''
-updated: 1760975290578
-created: 1760939694172
----
 # **Grounding Principles**
 ## **Trust is Valuable**
 ## **Trust is Often Freely Given**
 ## **Trust, Once Lost, is Hard to Win Back**
-***
+
 # **Open Source/Free Software**
 Open source software and free software ("[think of 'free speech,' not 'free beer.'](https://www.gnu.org/philosophy/free-sw.html)'") are two interrelated but diverging philosophies that can both be summed up by a key principle:
 
 #### **Principle: Computers Should Empower and Serve People**
-<br>
 How the two differ is largely a matter of the purpose that this principle serves.
 
 ## Open Source vs Free Software
