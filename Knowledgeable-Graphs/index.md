@@ -4,7 +4,6 @@
 
 @import "Internet-Protocol/index.md"
 
-
 # **Graphs**
 ## Notation Used in This Document
 ## Basics
