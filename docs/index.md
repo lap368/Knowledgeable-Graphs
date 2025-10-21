@@ -1,40 +1,16 @@
-@import "/Grounding-Principles/index.md"
+@import "./Grounding-Principles/index.md"
 
-@import "/Foss/index.md"
+@import "./Foss/index.md"
 
-@import "/Internet-Protocol/index.md"
+@import "./Internet-Protocol/index.md"
 
-# **Graphs**
-## Notation Used in This Document
-## Basics
-### Directed Vs Undirected
-### Trees
-## Knowledge Graphs
-## LLMs as Graphs
-### Vectors
-### Tokens
-#### Token-Phoneme Overlap?
-* Phonology as sub-syntax?
-***
-# **RDF**
-## Structure: Subject, Predicate, Object
-## RDF as a Graph
-***
-# **Proposal: Knowledgeable Graphs**
-## Principle: Everything Is A Graph (Except for the Things That Aren't)
-## Notation Used in This Document
-## Most Basic Knowledgeable Graph
-### Knowledge
-### Knowledge Adding Mechanism
-## Approved Knowledgeable Graph
-### Approval Mechanism
-#### An Approval Mechanism Is A Knowledge Adding Mechanism
-***
-# **Trust as a Currency**
-## Rough Formula for Trust
-## Charity As PR/PR For Charity, Redux
+@import "./Graphs/index.md"
 
-***
+@import "./RDF/index.md"
+
+@import "./Trust/index.md"
+
+
 
 # Loose Notes
  

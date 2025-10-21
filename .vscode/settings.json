@@ -22,5 +22,9 @@
     ".vscode/custom-tag-style.css"
 ],
 "markdown.preview.scrollEditorWithPreview": false,
-"markdown.preview.scrollPreviewWithEditor": false
+"markdown.preview.scrollPreviewWithEditor": false,
+"workbench.editor.revealIfOpen": true,
+"workbench.editor.enablePreview": false,
+"workbench.editor.focusRecentEditorAfterClose": false,
+"workbench.editor.openPositioning": "first"
 }

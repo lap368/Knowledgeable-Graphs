@@ -1,4 +1,4 @@
-# **[Open Source/Free Software](/docs/Foss/index.md)**
+# [Open Source/Free Software](/docs/Foss/index.md)
 Open source software and free software ("[think of 'free speech,' not 'free beer.'](https://www.gnu.org/philosophy/free-sw.html)'") are two interrelated but diverging philosophies that can both be summed up by a key principle:
 
 #### **Principle: Computers Should Empower and Serve People**
